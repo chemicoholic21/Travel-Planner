@@ -4,8 +4,6 @@
 
 Plan your dream trip effortlessly with the Travel Itinerary Generator! This powerful trip planner is your ultimate companion for crafting seamless travel experiences. Whether you're embarking on a road trip, city excursion, or overseas adventure, our tool simplifies the entire planning process.
 
-## Sample:
-https://github.com/Sanjeev-Kumar78/Travel-Itinerary-Generator/assets/62820550/d55374a9-41bd-4454-8c2b-4f037b1f010b
 
 
 
@@ -34,7 +32,7 @@ Make your travel dreams a reality. Start planning your next adventure with the T
 
 ## About
 
-Travel Planner is a computer program that empowers travelers to effortlessly create personalized travel itineraries. By considering users' interests, budgets, and travel dates, this application generates comprehensive lists of activities, attractions, and accommodations. Whether you're an experienced traveler or a novice, the Travel Itinerary Generator is your key to saving time and ensuring an enriching and well-rounded travel experience.
+Travel Planner is a computer program that empowers travelers to effortlessly create personalized travel itineraries. By considering users' interests, budgets, and travel dates, this application generates comprehensive lists of activities, attractions, and accommodations. Whether you're an experienced traveler or a novice, the Travel Itinerary Generator is your key to saving time in a given budget and ensuring an enriching and well-rounded travel experience.
 
 ## Limitations & Future Work
 - The Planner works only based on the user's source and destination and time of travel.
