@@ -37,6 +37,7 @@ Travel Planner is a computer program that empowers travelers to effortlessly cre
 ***Future Work***
 - The Travel Planner is not able to generate itineraries for multiple destinations.
 - The Travel Planner is not able to suggest hotels and flights.
+- blockchain tokenisation reward system.
 - **Real-time Collaboration:** In an increasingly interconnected world, we plan to introduce real-time collaboration features. Users will be able to share their itineraries with travel companions or collaborators, making group travel planning an effortless and collaborative experience.
 
 ## Features
