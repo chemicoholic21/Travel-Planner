@@ -44,6 +44,7 @@ Travel Planner is a computer program that empowers travelers to effortlessly cre
 
 - **Weather Forecast:** The Travel Planner provides a weather forecast of the destination for the whole travel time.
 - **Travel Itinerary:** The Travel Planner provides a travel itinerary for the whole travel time in an optimum budget.
+
 ## Requirements
 
 - Python 3.11
