@@ -31,6 +31,8 @@ Make your travel dreams a reality. Start planning your next adventure with the T
 
 Travel Planner is a computer program that empowers travelers to effortlessly create personalized travel itineraries. By considering users' interests, budgets, and travel dates, this application generates comprehensive lists of activities, attractions, and accommodations. Whether you're an experienced traveler or a novice, the Travel Itinerary Generator is your key to saving time in a given budget and ensuring an enriching and well-rounded travel experience.
 
+Have a great Experience!
+
 ## Limitations & Future Work
 - The Planner works only based on the user's source and destination and time of travel.
 
