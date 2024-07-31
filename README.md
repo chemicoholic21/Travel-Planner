@@ -4,6 +4,7 @@
 
 Plan your dream trip effortlessly with the Travel Itinerary Generator! This powerful trip planner is your ultimate companion for crafting seamless travel experiences. Whether you're embarking on a road trip, city excursion, or overseas adventure, our tool simplifies the entire planning process since it alots a personalised plan according to one's budget.
 
+Have a jolly ride!
 
 <p align="center">
 Make your travel dreams a reality. Start planning your next adventure with the Travel Itinerary Generator today!
